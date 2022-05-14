@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #14495e;
+}
+
+.eyes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  min-width: 100vh;
+  align-content: center;
+  background-image: url(Leonardo.png);
+  background-repeat: no-repeat;
+  background-size: 800px 800px;
+  background-position: center;
+}
+.eye1 {
+  width: 89px;
+  height: 126px;
+  background: #fff;
+  display: inline-block;
+  margin: 40px;
+  margin-top: -198px;
+  margin-left: -278px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  overflow: hidden;
+}
+.eye2 {
+  width: 90px;
+  height: 128px;
+  transform: rotate(6deg);
+  background: #ffff;
+  display: inline-block;
+  margin: 40px;
+  margin-top: -212px;
+  margin-left: 245px;
+  border-radius: 44%;
+  position: absolute;
+  top: 50%;
+  overflow: hidden;
+  border: 6px solid black;
+}
+
+.ball {
+  width: 70px;
+  height: 70px;
+  background: #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
