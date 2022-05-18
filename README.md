@@ -1,6 +1,6 @@
 # Eye-Excercise
 ## Description
-This app creates the animation of eyes following the mouse cursor with Leonardo from Teenage Mutant Ninja Turtles.
+This app creates the animation of eyes following the mouse cursor with Leonardo from Teenage Mutant Ninja Turtles as the face for the eyes.
 ## How to Run
 Load the page and move the cursor around the page and watch the eyes come to life.
 
